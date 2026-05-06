@@ -4,7 +4,7 @@ A full-featured inventory management system built with Next.js 16, PostgreSQL, a
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://inventory-system.vercel.app)
+[View Live Demo](https://inventory-system-alpha-topaz.vercel.app/)
 
 ## ✨ Features
 
